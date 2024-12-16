@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/empAssesment1/clientlibs"/>
+    <filter root="/apps/empAssesment1/components"/>
+    <filter root="/apps/empAssesment1/i18n"/>
+</workspaceFilter>
